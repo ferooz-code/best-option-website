@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: /sitemap.xml
+Sitemap: https://ferooz-code.github.io/best-option-website/sitemap.xml
